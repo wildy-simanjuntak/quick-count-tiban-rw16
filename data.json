@@ -1,0 +1,108 @@
+{
+  "election_info": {
+    "title": "QUICK COUNT PEMILIHAN RW 16",
+    "subtitle": "Rekapitulasi Perhitungan Suara Sementara",
+    "location": "Dusun RT 01/06 | Perum Tiban Housing dan New Tiban Housing",
+    "voting_date": "27 September 2026",
+    "status": "Mulai Perhitungan Suara",
+    "head_name": "Poltak Mahadianta",
+    "head_title": "Kepala Urusan Tiban Baru",
+    "foto_head": "https://st.depositphotos.com/2101611/3925/v/450/depositphotos_39258143-stock-illustration-businessman-avatar-profile-picture.jpg"
+  },
+  "committee": [
+    { "role": "Ketua", "name": "Yoga R", "foto": "assets/yoga.jpg" },
+    { "role": "Sekretaris", "name": "Darmawati", "foto": "assets/darmawati.jpg" },
+    { "role": "Anggota", "name": "Sisih Yenda", "foto": "assets/sisih.jpg" },
+    { "role": "Anggota", "name": "Alkito", "foto": "assets/alkito.jpg" },
+    { "role": "Anggota", "name": "Rian", "foto": "assets/rian.jpg" },
+    { "role": "Anggota", "name": "Ahmad", "foto": "assets/ahmad.jpg" },
+    { "role": "Anggota", "name": "Sugiarto", "foto": "assets/sugiarto.jpg" }
+  ],
+  "rt_heads": [
+    { "rt": "RT 01", "name": "Selamet", "foto": "assets/rt01.jpg" },
+    { "rt": "RT 02", "name": "Abdul Razak", "foto": "assets/rt02.jpg" },
+    { "rt": "RT 03", "name": "Rubono", "foto": "assets/rt03.jpg" },
+    { "rt": "RT 04", "name": "Sibri Yenda", "foto": "assets/rt04.jpg" },
+    { "rt": "RT 05", "name": "Evi Hendri", "foto": "assets/rt05.jpg" },
+    { "rt": "RT 06", "name": "Dumora", "foto": "assets/rt06.jpg" },
+    { "rt": "RT 07", "name": "Sartono", "foto": "assets/rt07.jpg" }
+  ],
+  "statistics": {
+    "total_dpt": 500,
+    "hadir": 425,
+    "tidak_hadir": 75,
+    "target_partisipasi": 75.0,
+    "suara_sah": 420,
+    "suara_tidak_sah": 5
+  },
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Calon 01",
+      "votes": 142,
+      "color": "#3b82f6",
+      "foto": "assets/calon1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Calon 02",
+      "votes": 164,
+      "color": "#ec4899",
+      "foto": "assets/calon2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Calon 03",
+      "votes": 114,
+      "color": "#10b981",
+      "foto": "assets/calon3.jpg"
+    }
+  ],
+  "recap_per_rt": [
+    { "rt": "RT 01", "dpt": 72, "hadir": 64, "tidak_hadir": 8 },
+    { "rt": "RT 02", "dpt": 68, "hadir": 57, "tidak_hadir": 11 },
+    { "rt": "RT 03", "dpt": 75, "hadir": 63, "tidak_hadir": 12 },
+    { "rt": "RT 04", "dpt": 80, "hadir": 72, "tidak_hadir": 8 },
+    { "rt": "RT 05", "dpt": 90, "hadir": 78, "tidak_hadir": 12 },
+    { "rt": "RT 06", "dpt": 70, "hadir": 59, "tidak_hadir": 11 },
+    { "rt": "RT 07", "dpt": 45, "hadir": 32, "tidak_hadir": 13 }
+  ],
+  "doorprize": [
+    {
+      "no": 1,
+      "blok_rumah": "Blok A1 No. 5",
+      "asal_rt": "RT 01",
+      "hadiah": "Sepeda Motor (Grand Prize)"
+    },
+    {
+      "no": 2,
+      "blok_rumah": "Blok B2 No. 12",
+      "asal_rt": "RT 03",
+      "hadiah": "Smart TV 42\""
+    },
+    {
+      "no": 3,
+      "blok_rumah": "Blok C3 No. 8",
+      "asal_rt": "RT 05",
+      "hadiah": "Kulkas"
+    },
+    {
+      "no": 4,
+      "blok_rumah": "Blok D4 No. 2",
+      "asal_rt": "RT 02",
+      "hadiah": "Mesin Cuci"
+    },
+    {
+      "no": 5,
+      "blok_rumah": "Blok E5 No. 15",
+      "asal_rt": "RT 07",
+      "hadiah": "Voucher Belanja"
+    }
+  ],
+  "company_info": {
+    "name": "Dinnosoft",
+    "img": "assets/dinosoft.jpg",
+    "url": "https://dinnosoft.vercel.app/",
+    "phone": "+62 822-8510-9691"
+  }
+}
